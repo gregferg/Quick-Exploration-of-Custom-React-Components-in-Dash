@@ -1,0 +1,7 @@
+include custom_react_component/custom_react_component.min.js
+include custom_react_component/custom_react_component.min.js.map
+include custom_react_component/metadata.json
+include custom_react_component/package-info.json
+include README.md
+include LICENSE
+include package.json

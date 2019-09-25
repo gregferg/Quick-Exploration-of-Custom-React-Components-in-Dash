@@ -1,0 +1,15 @@
+Package: customReactComponent
+Title: Project Description
+Version: 0.0.1
+Authors @R: as.person(c(g s <gs@gm.cm>))
+Description: Project Description
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License:  + file LICENSE
+URL: 
+BugReports: 
+Encoding: UTF-8
+LazyData: true
+Author: g s [aut]
+Maintainer: g s <gs@gm.cm>
